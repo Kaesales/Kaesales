@@ -10,6 +10,8 @@
   <img align="center" alt="Kaella-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kaella-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Kaella-JS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+  <img align="center" alt="Kaella-Docker" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
+
 </div>
 
 ##
